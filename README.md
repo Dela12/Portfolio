@@ -1,5 +1,5 @@
 # Portfolio
-Quantitative Finance Projects
+Quantitative Finance Projects with Python Implementations
 - Black Scholes Model
 - Monte Carlo Simulation
 - Market Risk : Value at Risk (VaR)
